@@ -58,3 +58,9 @@ Controle-de-vendas/
 ├── style.css
 ├── script.js
 └── README.md
+
+
+
+## 🌐 Acesse o projeto
+
+[🔗 Ver projeto online](https://lukanascimentosilva12.github.io/Controle-de-vendas/)
