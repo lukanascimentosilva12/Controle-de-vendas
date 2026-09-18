@@ -48,6 +48,9 @@ criando uma aplicação para uma situação prática de controle de vendas.
 1. Faça o download ou clone este repositório.
 2. Abra a pasta do projeto.
 3. Abra o arquivo `index.html` no navegador.
+#### 🌐 Acesse o projeto
+
+[🔗 Ver projeto online](https://lukanascimentosilva12.github.io/Controle-de-vendas/)
 
 ## 📁 Estrutura
 
@@ -61,6 +64,3 @@ Controle-de-vendas/
 
 
 
-#### 🌐 Acesse o projeto
-
-[🔗 Ver projeto online](https://lukanascimentosilva12.github.io/Controle-de-vendas/)
